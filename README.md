@@ -9,9 +9,13 @@ csrci CSR_MMISC_CTL, 2
 # 默认分区信息
 
 boot		1M
+
 App		2M
+
 easyflash	1M
+
 download	1M
+
 filesystem	剩余的所有
 
 APP里面修改链接脚本
