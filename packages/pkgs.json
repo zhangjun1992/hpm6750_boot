@@ -1,0 +1,27 @@
+[
+ {
+  "path": "/packages/security/tinycrypt", 
+  "ver": "latest", 
+  "name": "TINYCRYPT"
+ }, 
+ {
+  "path": "/packages/system/fal", 
+  "ver": "v1.0.0", 
+  "name": "FAL"
+ }, 
+ {
+  "path": "/packages/peripherals/SignalLed", 
+  "ver": "v1.1.0", 
+  "name": "SIGNAL_LED"
+ }, 
+ {
+  "path": "/packages/misc/fastlz", 
+  "ver": "v1.0.1", 
+  "name": "FASTLZ"
+ }, 
+ {
+  "path": "/packages/misc/quicklz", 
+  "ver": "v1.0.1", 
+  "name": "QUICKLZ"
+ }
+]

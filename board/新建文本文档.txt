@@ -1,0 +1,26 @@
+static void interrupt_cleanup(void)
+{
+    disable_mchtmr_irq();
+    disable_global_irq(CSR_MSTATUS_MIE_MASK);
+    for (int i=1; i<255; i++) {
+        intc_m_disable_irq(i);
+    }
+}
+
+static void cache_cleanup(void)
+{
+    l1c_dc_writeback_all();
+    l1c_dc_disable();
+    l1c_ic_disable();
+}
+
+static void system_cleanup(void) 
+{
+    interrupt_cleanup();
+    l1c_dc_invalidate_all();
+    fencei();
+    static application_entry_t app_entry;
+    app_entry  = (application_entry_t)(BOARD_FLASH_APP_START);
+    app_entry();
+    while(1);
+}
