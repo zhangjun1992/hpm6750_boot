@@ -7,6 +7,7 @@ APP里面要修改start.s文件，在48行的后面增加下面代码
 csrci CSR_MMISC_CTL, 2
 
 # 默认分区信息
+
 boot		1M
 App		2M
 easyflash	1M
