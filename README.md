@@ -19,4 +19,6 @@ download	1M
 filesystem	剩余的所有
 
 APP里面修改链接脚本
+# 编译
+直接通过rt-studio 导入该项目即可。
 
