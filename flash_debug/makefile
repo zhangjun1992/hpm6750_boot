@@ -69,7 +69,7 @@ all: rtthread.elf secondary-outputs
 
 # 工具调用
 rtthread.elf: $(OBJS) $(USER_OBJS)
-	riscv64-unknown-elf-gcc -march=rv32imac -mabi=ilp32 -msmall-data-limit=8 -mno-strict-align -mno-save-restore -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "E:\11_code\16_sk\20_ck-hpm6750_code\01_6750_boot\hpm6750_boot\board\linker_scripts\flash_rtt.ld" -Xlinker --gc-sections -Wl,-Map,"rtthread.map" --specs=nosys.specs -nostartfiles -Wl,--gc-sections -Wl,-cref,-Map=rtthread.map -march=rv32imac -mabi=ilp32 -mcmodel=medlow -o "rtthread.elf" $(OBJS) $(USER_OBJS) $(LIBS)
+	riscv64-unknown-elf-gcc -march=rv32imac -mabi=ilp32 -msmall-data-limit=8 -mno-strict-align -mno-save-restore -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "E:\11_code\16_sk\20_ck-hpm6750_code\01_6750_boot\2_hpm6750_boot_2\hpm6750_boot\board\linker_scripts\flash_rtt.ld" -Xlinker --gc-sections -Wl,-Map,"rtthread.map" --specs=nosys.specs -nostartfiles -Wl,--gc-sections -Wl,-cref,-Map=rtthread.map -march=rv32imac -mabi=ilp32 -mcmodel=medlow -o "rtthread.elf" $(OBJS) $(USER_OBJS) $(LIBS)
 
 rtthread.bin: rtthread.elf
 	riscv64-unknown-elf-objcopy -O binary "rtthread.elf"  "rtthread.bin"

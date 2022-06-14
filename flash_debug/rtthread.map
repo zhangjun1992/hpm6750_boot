@@ -1127,7 +1127,7 @@ Discarded input sections
  .debug_line    0x0000000000000000     0x1145 ./rt-thread/components/utilities/ymodem/ymodem.o
  .debug_str     0x0000000000000000     0x80f8 ./rt-thread/components/utilities/ymodem/ymodem.o
  .debug_line_str
-                0x0000000000000000      0x51b ./rt-thread/components/utilities/ymodem/ymodem.o
+                0x0000000000000000      0x54e ./rt-thread/components/utilities/ymodem/ymodem.o
  .comment       0x0000000000000000       0x11 ./rt-thread/components/utilities/ymodem/ymodem.o
  .debug_frame   0x0000000000000000      0x2e0 ./rt-thread/components/utilities/ymodem/ymodem.o
  .riscv.attributes
@@ -1330,7 +1330,7 @@ Discarded input sections
  .debug_line    0x0000000000000000      0x2a2 ./rt-thread/components/libc/compilers/gcc/newlib/stdio.o
  .debug_str     0x0000000000000000     0x8fb0 ./rt-thread/components/libc/compilers/gcc/newlib/stdio.o
  .debug_line_str
-                0x0000000000000000      0x611 ./rt-thread/components/libc/compilers/gcc/newlib/stdio.o
+                0x0000000000000000      0x655 ./rt-thread/components/libc/compilers/gcc/newlib/stdio.o
  .comment       0x0000000000000000       0x11 ./rt-thread/components/libc/compilers/gcc/newlib/stdio.o
  .debug_frame   0x0000000000000000       0x60 ./rt-thread/components/libc/compilers/gcc/newlib/stdio.o
  .riscv.attributes
@@ -1980,7 +1980,7 @@ Discarded input sections
  .debug_line    0x0000000000000000      0x96e ./rt-thread/components/drivers/src/dataqueue.o
  .debug_str     0x0000000000000000     0x893c ./rt-thread/components/drivers/src/dataqueue.o
  .debug_line_str
-                0x0000000000000000      0x6be ./rt-thread/components/drivers/src/dataqueue.o
+                0x0000000000000000      0x724 ./rt-thread/components/drivers/src/dataqueue.o
  .comment       0x0000000000000000       0x11 ./rt-thread/components/drivers/src/dataqueue.o
  .debug_frame   0x0000000000000000      0x194 ./rt-thread/components/drivers/src/dataqueue.o
  .riscv.attributes
@@ -2098,7 +2098,7 @@ Discarded input sections
  .debug_line    0x0000000000000000      0x5c9 ./rt-thread/components/drivers/src/pipe.o
  .debug_str     0x0000000000000000     0x9c14 ./rt-thread/components/drivers/src/pipe.o
  .debug_line_str
-                0x0000000000000000      0x6dd ./rt-thread/components/drivers/src/pipe.o
+                0x0000000000000000      0x743 ./rt-thread/components/drivers/src/pipe.o
  .comment       0x0000000000000000       0x11 ./rt-thread/components/drivers/src/pipe.o
  .debug_frame   0x0000000000000000      0x170 ./rt-thread/components/drivers/src/pipe.o
  .riscv.attributes
@@ -2238,7 +2238,7 @@ Discarded input sections
  .debug_line    0x0000000000000000      0xce4 ./rt-thread/components/drivers/src/ringblk_buf.o
  .debug_str     0x0000000000000000     0x88dd ./rt-thread/components/drivers/src/ringblk_buf.o
  .debug_line_str
-                0x0000000000000000      0x6c4 ./rt-thread/components/drivers/src/ringblk_buf.o
+                0x0000000000000000      0x72a ./rt-thread/components/drivers/src/ringblk_buf.o
  .comment       0x0000000000000000       0x11 ./rt-thread/components/drivers/src/ringblk_buf.o
  .debug_frame   0x0000000000000000      0x394 ./rt-thread/components/drivers/src/ringblk_buf.o
  .riscv.attributes
@@ -2444,7 +2444,7 @@ Discarded input sections
  .debug_line    0x0000000000000000      0x4a3 ./rt-thread/components/drivers/src/waitqueue.o
  .debug_str     0x0000000000000000     0x93eb ./rt-thread/components/drivers/src/waitqueue.o
  .debug_line_str
-                0x0000000000000000      0x6e4 ./rt-thread/components/drivers/src/waitqueue.o
+                0x0000000000000000      0x74a ./rt-thread/components/drivers/src/waitqueue.o
  .comment       0x0000000000000000       0x11 ./rt-thread/components/drivers/src/waitqueue.o
  .debug_frame   0x0000000000000000      0x168 ./rt-thread/components/drivers/src/waitqueue.o
  .riscv.attributes
@@ -2571,7 +2571,7 @@ Discarded input sections
  .debug_line    0x0000000000000000      0x8f2 ./rt-thread/components/drivers/src/workqueue.o
  .debug_str     0x0000000000000000     0x8ad3 ./rt-thread/components/drivers/src/workqueue.o
  .debug_line_str
-                0x0000000000000000      0x6be ./rt-thread/components/drivers/src/workqueue.o
+                0x0000000000000000      0x724 ./rt-thread/components/drivers/src/workqueue.o
  .comment       0x0000000000000000       0x11 ./rt-thread/components/drivers/src/workqueue.o
  .debug_frame   0x0000000000000000      0x29c ./rt-thread/components/drivers/src/workqueue.o
  .riscv.attributes
@@ -3022,7 +3022,7 @@ Discarded input sections
  .debug_line    0x0000000000000000      0x739 ./packages/tinycrypt-latest/src/tiny_base64.o
  .debug_str     0x0000000000000000     0x2f1a ./packages/tinycrypt-latest/src/tiny_base64.o
  .debug_line_str
-                0x0000000000000000      0x238 ./packages/tinycrypt-latest/src/tiny_base64.o
+                0x0000000000000000      0x25a ./packages/tinycrypt-latest/src/tiny_base64.o
  .comment       0x0000000000000000       0x11 ./packages/tinycrypt-latest/src/tiny_base64.o
  .debug_frame   0x0000000000000000       0x58 ./packages/tinycrypt-latest/src/tiny_base64.o
  .riscv.attributes
@@ -3132,7 +3132,7 @@ Discarded input sections
  .debug_line    0x0000000000000000      0x750 ./packages/tinycrypt-latest/src/tiny_md5.o
  .debug_str     0x0000000000000000     0x7176 ./packages/tinycrypt-latest/src/tiny_md5.o
  .debug_line_str
-                0x0000000000000000      0x566 ./packages/tinycrypt-latest/src/tiny_md5.o
+                0x0000000000000000      0x588 ./packages/tinycrypt-latest/src/tiny_md5.o
  .comment       0x0000000000000000       0x11 ./packages/tinycrypt-latest/src/tiny_md5.o
  .debug_frame   0x0000000000000000      0x178 ./packages/tinycrypt-latest/src/tiny_md5.o
  .riscv.attributes
@@ -3242,7 +3242,7 @@ Discarded input sections
  .debug_line    0x0000000000000000      0x7cc ./packages/tinycrypt-latest/src/tiny_sha1.o
  .debug_str     0x0000000000000000     0x7220 ./packages/tinycrypt-latest/src/tiny_sha1.o
  .debug_line_str
-                0x0000000000000000      0x569 ./packages/tinycrypt-latest/src/tiny_sha1.o
+                0x0000000000000000      0x58b ./packages/tinycrypt-latest/src/tiny_sha1.o
  .comment       0x0000000000000000       0x11 ./packages/tinycrypt-latest/src/tiny_sha1.o
  .debug_frame   0x0000000000000000      0x17c ./packages/tinycrypt-latest/src/tiny_sha1.o
  .riscv.attributes
@@ -3352,7 +3352,7 @@ Discarded input sections
  .debug_line    0x0000000000000000      0x88c ./packages/tinycrypt-latest/src/tiny_sha2.o
  .debug_str     0x0000000000000000     0x72bb ./packages/tinycrypt-latest/src/tiny_sha2.o
  .debug_line_str
-                0x0000000000000000      0x569 ./packages/tinycrypt-latest/src/tiny_sha2.o
+                0x0000000000000000      0x58b ./packages/tinycrypt-latest/src/tiny_sha2.o
  .comment       0x0000000000000000       0x11 ./packages/tinycrypt-latest/src/tiny_sha2.o
  .debug_frame   0x0000000000000000      0x17c ./packages/tinycrypt-latest/src/tiny_sha2.o
  .riscv.attributes
@@ -6280,7 +6280,7 @@ Discarded input sections
  .debug_line    0x0000000000000000      0x304 ./libraries/hpm_sdk/soc/HPM6750/system.o
  .debug_str     0x0000000000000000   0x11e878 ./libraries/hpm_sdk/soc/HPM6750/system.o
  .debug_line_str
-                0x0000000000000000      0x9c3 ./libraries/hpm_sdk/soc/HPM6750/system.o
+                0x0000000000000000      0xa07 ./libraries/hpm_sdk/soc/HPM6750/system.o
  .comment       0x0000000000000000       0x11 ./libraries/hpm_sdk/soc/HPM6750/system.o
  .debug_frame   0x0000000000000000       0x5c ./libraries/hpm_sdk/soc/HPM6750/system.o
  .riscv.attributes
@@ -6980,7 +6980,7 @@ Discarded input sections
  .debug_line    0x0000000000000000      0x3ae ./libraries/hpm_sdk/components/debug_console/hpm_debug_console.o
  .debug_str     0x0000000000000000     0xa6b8 ./libraries/hpm_sdk/components/debug_console/hpm_debug_console.o
  .debug_line_str
-                0x0000000000000000      0x6a7 ./libraries/hpm_sdk/components/debug_console/hpm_debug_console.o
+                0x0000000000000000      0x6eb ./libraries/hpm_sdk/components/debug_console/hpm_debug_console.o
  .comment       0x0000000000000000       0x11 ./libraries/hpm_sdk/components/debug_console/hpm_debug_console.o
  .debug_frame   0x0000000000000000       0xfc ./libraries/hpm_sdk/components/debug_console/hpm_debug_console.o
  .riscv.attributes
@@ -9013,7 +9013,7 @@ Discarded input sections
  .debug_line    0x0000000000000000       0x77 ./board/eth_phy_port.o
  .debug_str     0x0000000000000000     0x494d ./board/eth_phy_port.o
  .debug_line_str
-                0x0000000000000000      0x2c0 ./board/eth_phy_port.o
+                0x0000000000000000      0x2f3 ./board/eth_phy_port.o
  .comment       0x0000000000000000       0x11 ./board/eth_phy_port.o
  .riscv.attributes
                 0x0000000000000000       0x2d ./board/eth_phy_port.o
@@ -10221,7 +10221,7 @@ Discarded input sections
  .debug_line    0x0000000000000000       0x77 ./board/rw007_port.o
  .debug_str     0x0000000000000000     0x494d ./board/rw007_port.o
  .debug_line_str
-                0x0000000000000000      0x2ba ./board/rw007_port.o
+                0x0000000000000000      0x2ed ./board/rw007_port.o
  .comment       0x0000000000000000       0x11 ./board/rw007_port.o
  .riscv.attributes
                 0x0000000000000000       0x2d ./board/rw007_port.o
@@ -14570,275 +14570,275 @@ OUTPUT(rtthread.elf elf32-littleriscv)
  .debug_line    0x0000000000033d9b       0xcb d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
 
 .debug_line_str
-                0x0000000000000000     0x25b9
+                0x0000000000000000     0x2740
  .debug_line_str
                 0x0000000000000000       0x85 ./startup/HPM6750/toolchains/gcc/start.o
                                          0x8d (size before relaxing)
  .debug_line_str
-                0x0000000000000085      0x9f1 ./startup/HPM6750/startup.o
-                                        0xafa (size before relaxing)
+                0x0000000000000085      0xa68 ./startup/HPM6750/startup.o
+                                        0xb71 (size before relaxing)
  .debug_line_str
-                0x0000000000000a76       0x95 ./startup/HPM6750/trap.o
-                                        0xb5e (size before relaxing)
+                0x0000000000000aed       0xa6 ./startup/HPM6750/trap.o
+                                        0xbe6 (size before relaxing)
  .debug_line_str
-                0x0000000000000b0b       0x31 ./rt-thread/src/clock.o
-                                        0x2c2 (size before relaxing)
+                0x0000000000000b93       0x31 ./rt-thread/src/clock.o
+                                        0x2f5 (size before relaxing)
  .debug_line_str
-                0x0000000000000b3c       0x1e ./rt-thread/src/components.o
-                                        0x2d1 (size before relaxing)
+                0x0000000000000bc4       0x1e ./rt-thread/src/components.o
+                                        0x304 (size before relaxing)
  .debug_line_str
-                0x0000000000000b5a       0x1a ./rt-thread/src/device.o
-                                        0x2be (size before relaxing)
+                0x0000000000000be2       0x1a ./rt-thread/src/device.o
+                                        0x2f1 (size before relaxing)
  .debug_line_str
-                0x0000000000000b74       0x18 ./rt-thread/src/idle.o
-                                        0x2bf (size before relaxing)
+                0x0000000000000bfc       0x18 ./rt-thread/src/idle.o
+                                        0x2f2 (size before relaxing)
  .debug_line_str
-                0x0000000000000b8c       0x17 ./rt-thread/src/ipc.o
-                                        0x2bc (size before relaxing)
+                0x0000000000000c14       0x17 ./rt-thread/src/ipc.o
+                                        0x2ef (size before relaxing)
  .debug_line_str
-                0x0000000000000ba3       0x17 ./rt-thread/src/irq.o
-                                        0x2bc (size before relaxing)
+                0x0000000000000c2b       0x17 ./rt-thread/src/irq.o
+                                        0x2ef (size before relaxing)
  .debug_line_str
-                0x0000000000000bba       0x1c ./rt-thread/src/kservice.o
-                                        0x2cb (size before relaxing)
+                0x0000000000000c42       0x1c ./rt-thread/src/kservice.o
+                                        0x2fe (size before relaxing)
  .debug_line_str
-                0x0000000000000bd6       0x17 ./rt-thread/src/mem.o
-                                        0x2bc (size before relaxing)
+                0x0000000000000c5e       0x17 ./rt-thread/src/mem.o
+                                        0x2ef (size before relaxing)
  .debug_line_str
-                0x0000000000000bed       0x1b ./rt-thread/src/mempool.o
-                                        0x2c8 (size before relaxing)
+                0x0000000000000c75       0x1b ./rt-thread/src/mempool.o
+                                        0x2fb (size before relaxing)
  .debug_line_str
-                0x0000000000000c08       0x1a ./rt-thread/src/object.o
-                                        0x2c5 (size before relaxing)
+                0x0000000000000c90       0x1a ./rt-thread/src/object.o
+                                        0x2f8 (size before relaxing)
  .debug_line_str
-                0x0000000000000c22       0x1d ./rt-thread/src/scheduler.o
-                                        0x2ce (size before relaxing)
+                0x0000000000000caa       0x1d ./rt-thread/src/scheduler.o
+                                        0x301 (size before relaxing)
  .debug_line_str
-                0x0000000000000c3f       0x1a ./rt-thread/src/thread.o
-                                        0x2c5 (size before relaxing)
+                0x0000000000000cc7       0x1a ./rt-thread/src/thread.o
+                                        0x2f8 (size before relaxing)
  .debug_line_str
-                0x0000000000000c59       0x19 ./rt-thread/src/timer.o
-                                        0x2c2 (size before relaxing)
+                0x0000000000000ce1       0x19 ./rt-thread/src/timer.o
+                                        0x2f5 (size before relaxing)
  .debug_line_str
-                0x0000000000000c72       0x31 ./rt-thread/libcpu/risc-v/hpmicro/context_gcc.o
+                0x0000000000000cfa       0x31 ./rt-thread/libcpu/risc-v/hpmicro/context_gcc.o
                                          0x9a (size before relaxing)
  .debug_line_str
-                0x0000000000000ca3       0x2d ./rt-thread/libcpu/risc-v/hpmicro/cpuport.o
-                                        0x309 (size before relaxing)
+                0x0000000000000d2b       0x2d ./rt-thread/libcpu/risc-v/hpmicro/cpuport.o
+                                        0x33c (size before relaxing)
  .debug_line_str
-                0x0000000000000cd0       0x11 ./rt-thread/libcpu/risc-v/hpmicro/trap_entry_gcc.o
+                0x0000000000000d58       0x11 ./rt-thread/libcpu/risc-v/hpmicro/trap_entry_gcc.o
                                          0xa0 (size before relaxing)
  .debug_line_str
-                0x0000000000000ce1      0x220 ./rt-thread/components/libc/compilers/gcc/newlib/libc.o
-                                        0x72b (size before relaxing)
+                0x0000000000000d69      0x253 ./rt-thread/components/libc/compilers/gcc/newlib/libc.o
+                                        0x791 (size before relaxing)
  .debug_line_str
-                0x0000000000000f01       0x56 ./rt-thread/components/libc/compilers/gcc/newlib/syscalls.o
-                                        0x5b8 (size before relaxing)
+                0x0000000000000fbc       0x56 ./rt-thread/components/libc/compilers/gcc/newlib/syscalls.o
+                                        0x5eb (size before relaxing)
  .debug_line_str
-                0x0000000000000f57       0x65 ./rt-thread/components/libc/compilers/common/stdlib.o
-                                        0x300 (size before relaxing)
+                0x0000000000001012       0x65 ./rt-thread/components/libc/compilers/common/stdlib.o
+                                        0x333 (size before relaxing)
  .debug_line_str
-                0x0000000000000fbc      0x213 ./rt-thread/components/libc/compilers/common/time.o
-                                        0x82f (size before relaxing)
+                0x0000000000001077      0x246 ./rt-thread/components/libc/compilers/common/time.o
+                                        0x8a6 (size before relaxing)
  .debug_line_str
-                0x00000000000011cf       0x42 ./rt-thread/components/finsh/cmd.o
-                                        0x4f3 (size before relaxing)
+                0x00000000000012bd       0x42 ./rt-thread/components/finsh/cmd.o
+                                        0x526 (size before relaxing)
  .debug_line_str
-                0x0000000000001211       0x32 ./rt-thread/components/finsh/msh.o
-                                        0x502 (size before relaxing)
+                0x00000000000012ff       0x32 ./rt-thread/components/finsh/msh.o
+                                        0x535 (size before relaxing)
  .debug_line_str
-                0x0000000000001243       0x26 ./rt-thread/components/finsh/shell.o
-                                        0x599 (size before relaxing)
+                0x0000000000001331       0x26 ./rt-thread/components/finsh/shell.o
+                                        0x5cc (size before relaxing)
  .debug_line_str
-                0x0000000000001269       0x55 ./rt-thread/components/drivers/src/completion.o
-                                        0x6c1 (size before relaxing)
+                0x0000000000001357       0x55 ./rt-thread/components/drivers/src/completion.o
+                                        0x727 (size before relaxing)
  .debug_line_str
-                0x00000000000012be       0x31 ./rt-thread/components/drivers/src/ringbuffer.o
-                                        0x6e0 (size before relaxing)
+                0x00000000000013ac       0x31 ./rt-thread/components/drivers/src/ringbuffer.o
+                                        0x746 (size before relaxing)
  .debug_line_str
-                0x00000000000012ef       0x53 ./rt-thread/components/drivers/spi/spi_core.o
-                                        0x56d (size before relaxing)
+                0x00000000000013dd       0x53 ./rt-thread/components/drivers/spi/spi_core.o
+                                        0x5b1 (size before relaxing)
  .debug_line_str
-                0x0000000000001342       0x2e ./rt-thread/components/drivers/spi/spi_dev.o
-                                        0x56a (size before relaxing)
+                0x0000000000001430       0x2e ./rt-thread/components/drivers/spi/spi_dev.o
+                                        0x5ae (size before relaxing)
  .debug_line_str
-                0x0000000000001370       0x5a ./rt-thread/components/drivers/serial/serial_v2.o
-                                        0x6cc (size before relaxing)
+                0x000000000000145e       0x5a ./rt-thread/components/drivers/serial/serial_v2.o
+                                        0x732 (size before relaxing)
  .debug_line_str
-                0x00000000000013ca       0x4e ./rt-thread/components/drivers/rtc/rtc.o
-                                        0x681 (size before relaxing)
+                0x00000000000014b8       0x4e ./rt-thread/components/drivers/rtc/rtc.o
+                                        0x6d6 (size before relaxing)
  .debug_line_str
-                0x0000000000001418       0x50 ./rt-thread/components/drivers/misc/pin.o
-                                        0x34e (size before relaxing)
+                0x0000000000001506       0x50 ./rt-thread/components/drivers/misc/pin.o
+                                        0x392 (size before relaxing)
  .debug_line_str
-                0x0000000000001468      0x108 ./packages/tinycrypt-latest/src/tiny_aes.o
-                                        0x4d3 (size before relaxing)
+                0x0000000000001556      0x119 ./packages/tinycrypt-latest/src/tiny_aes.o
+                                        0x4f5 (size before relaxing)
  .debug_line_str
-                0x0000000000001570       0x4a ./packages/quicklz-v1.0.1/quicklz.o
-                                        0x413 (size before relaxing)
+                0x000000000000166f       0x4a ./packages/quicklz-v1.0.1/quicklz.o
+                                        0x424 (size before relaxing)
  .debug_line_str
-                0x00000000000015ba       0x3d ./packages/fastlz-v1.0.1/fastlz.o
-                                        0x48c (size before relaxing)
+                0x00000000000016b9       0x3d ./packages/fastlz-v1.0.1/fastlz.o
+                                        0x49d (size before relaxing)
  .debug_line_str
-                0x00000000000015f7      0x13b ./packages/fal-v1.0.0/src/fal.o
-                                        0xc77 (size before relaxing)
+                0x00000000000016f6      0x15d ./packages/fal-v1.0.0/src/fal.o
+                                        0xd10 (size before relaxing)
  .debug_line_str
-                0x0000000000001732       0x27 ./packages/fal-v1.0.0/src/fal_flash.o
-                                        0xc89 (size before relaxing)
+                0x0000000000001853       0x27 ./packages/fal-v1.0.0/src/fal_flash.o
+                                        0xd22 (size before relaxing)
  .debug_line_str
-                0x0000000000001759       0x2b ./packages/fal-v1.0.0/src/fal_partition.o
-                                        0xc95 (size before relaxing)
+                0x000000000000187a       0x2b ./packages/fal-v1.0.0/src/fal_partition.o
+                                        0xd2e (size before relaxing)
  .debug_line_str
-                0x0000000000001784       0x25 ./packages/fal-v1.0.0/src/fal_rtt.o
-                                        0xe3b (size before relaxing)
+                0x00000000000018a5       0x25 ./packages/fal-v1.0.0/src/fal_rtt.o
+                                        0xf07 (size before relaxing)
  .debug_line_str
-                0x00000000000017a9      0x11a ./packages/SignalLed-v1.1.0/src/signal_led.o
-                                        0x51f (size before relaxing)
+                0x00000000000018ca      0x13c ./packages/SignalLed-v1.1.0/src/signal_led.o
+                                        0x552 (size before relaxing)
  .debug_line_str
-                0x00000000000018c3       0x6e ./libraries/hpm_sdk/soc/HPM6750/boot/hpm_bootheader.o
-                                        0x4f7 (size before relaxing)
+                0x0000000000001a06       0x6e ./libraries/hpm_sdk/soc/HPM6750/boot/hpm_bootheader.o
+                                        0x519 (size before relaxing)
  .debug_line_str
-                0x0000000000001931       0x63 ./libraries/hpm_sdk/soc/HPM6750/hpm_clock_drv.o
-                                        0xa6a (size before relaxing)
+                0x0000000000001a74       0x63 ./libraries/hpm_sdk/soc/HPM6750/hpm_clock_drv.o
+                                        0xabf (size before relaxing)
  .debug_line_str
-                0x0000000000001994       0x2f ./libraries/hpm_sdk/soc/HPM6750/hpm_l1c_drv.o
-                                        0x9d2 (size before relaxing)
+                0x0000000000001ad7       0x2f ./libraries/hpm_sdk/soc/HPM6750/hpm_l1c_drv.o
+                                        0xa16 (size before relaxing)
  .debug_line_str
-                0x00000000000019c3       0x32 ./libraries/hpm_sdk/soc/HPM6750/hpm_sysctl_drv.o
-                                        0x511 (size before relaxing)
+                0x0000000000001b06       0x32 ./libraries/hpm_sdk/soc/HPM6750/hpm_sysctl_drv.o
+                                        0x533 (size before relaxing)
  .debug_line_str
-                0x00000000000019f5       0x5e ./libraries/hpm_sdk/drivers/src/hpm_dma_drv.o
-                                        0x5b5 (size before relaxing)
+                0x0000000000001b38       0x5e ./libraries/hpm_sdk/drivers/src/hpm_dma_drv.o
+                                        0x5f9 (size before relaxing)
  .debug_line_str
-                0x0000000000001a53       0x3f ./libraries/hpm_sdk/drivers/src/hpm_dram_drv.o
-                                        0x54c (size before relaxing)
+                0x0000000000001b96       0x3f ./libraries/hpm_sdk/drivers/src/hpm_dram_drv.o
+                                        0x57f (size before relaxing)
  .debug_line_str
-                0x0000000000001a92       0x3f ./libraries/hpm_sdk/drivers/src/hpm_gpio_drv.o
-                                        0x54c (size before relaxing)
+                0x0000000000001bd5       0x3f ./libraries/hpm_sdk/drivers/src/hpm_gpio_drv.o
+                                        0x57f (size before relaxing)
  .debug_line_str
-                0x0000000000001ad1       0x32 ./libraries/hpm_sdk/drivers/src/hpm_pllctl_drv.o
-                                        0x5c4 (size before relaxing)
+                0x0000000000001c14       0x32 ./libraries/hpm_sdk/drivers/src/hpm_pllctl_drv.o
+                                        0x608 (size before relaxing)
  .debug_line_str
-                0x0000000000001b03       0x3d ./libraries/hpm_sdk/drivers/src/hpm_pmp_drv.o
-                                        0x5b4 (size before relaxing)
+                0x0000000000001c46       0x3d ./libraries/hpm_sdk/drivers/src/hpm_pmp_drv.o
+                                        0x5f8 (size before relaxing)
  .debug_line_str
-                0x0000000000001b40       0x3d ./libraries/hpm_sdk/drivers/src/hpm_rtc_drv.o
-                                        0x645 (size before relaxing)
+                0x0000000000001c83       0x3d ./libraries/hpm_sdk/drivers/src/hpm_rtc_drv.o
+                                        0x689 (size before relaxing)
  .debug_line_str
-                0x0000000000001b7d       0x3d ./libraries/hpm_sdk/drivers/src/hpm_spi_drv.o
-                                        0x547 (size before relaxing)
+                0x0000000000001cc0       0x3d ./libraries/hpm_sdk/drivers/src/hpm_spi_drv.o
+                                        0x57a (size before relaxing)
  .debug_line_str
-                0x0000000000001bba       0x3f ./libraries/hpm_sdk/drivers/src/hpm_uart_drv.o
-                                        0x54c (size before relaxing)
+                0x0000000000001cfd       0x3f ./libraries/hpm_sdk/drivers/src/hpm_uart_drv.o
+                                        0x57f (size before relaxing)
  .debug_line_str
-                0x0000000000001bf9       0x35 ./libraries/drivers/drv_gpio.o
-                                        0xde3 (size before relaxing)
+                0x0000000000001d3c       0x35 ./libraries/drivers/drv_gpio.o
+                                        0xe9e (size before relaxing)
  .debug_line_str
-                0x0000000000001c2e       0x29 ./libraries/drivers/drv_rtc.o
-                                        0xe62 (size before relaxing)
+                0x0000000000001d71       0x29 ./libraries/drivers/drv_rtc.o
+                                        0xf2e (size before relaxing)
  .debug_line_str
-                0x0000000000001c57       0x29 ./libraries/drivers/drv_spi.o
-                                        0xdde (size before relaxing)
+                0x0000000000001d9a       0x29 ./libraries/drivers/drv_spi.o
+                                        0xe99 (size before relaxing)
  .debug_line_str
-                0x0000000000001c80       0x42 ./libraries/drivers/drv_uart_v2.o
-                                        0xe1d (size before relaxing)
+                0x0000000000001dc3       0x42 ./libraries/drivers/drv_uart_v2.o
+                                        0xed8 (size before relaxing)
  .debug_line_str
-                0x0000000000001cc2       0xfb ./board/board.o
-                                        0xbe7 (size before relaxing)
+                0x0000000000001e05      0x10c ./board/board.o
+                                        0xc4d (size before relaxing)
  .debug_line_str
-                0x0000000000001dbd       0xa3 ./board/fal_flash_port.o
-                                        0xd1a (size before relaxing)
+                0x0000000000001f11       0xa3 ./board/fal_flash_port.o
+                                        0xdb3 (size before relaxing)
  .debug_line_str
-                0x0000000000001e60       0x12 ./board/pinmux.o
-                                        0xabd (size before relaxing)
+                0x0000000000001fb4       0x12 ./board/pinmux.o
+                                        0xb12 (size before relaxing)
  .debug_line_str
-                0x0000000000001e72       0x69 ./board/rtt_board.o
-                                        0xe55 (size before relaxing)
+                0x0000000000001fc6       0x69 ./board/rtt_board.o
+                                        0xf10 (size before relaxing)
  .debug_line_str
-                0x0000000000001edb       0x27 ./applications/main.o
-                                        0xce5 (size before relaxing)
+                0x000000000000202f       0x27 ./applications/main.o
+                                        0xda0 (size before relaxing)
  .debug_line_str
-                0x0000000000001f02      0x123 ./applications/rt_fota.o
-                                       0x10b4 (size before relaxing)
+                0x0000000000002056      0x156 ./applications/rt_fota.o
+                                       0x11e6 (size before relaxing)
  .debug_line_str
-                0x0000000000002025       0x1e ./applications/rt_fota_crc.o
-                                        0x2cb (size before relaxing)
+                0x00000000000021ac       0x1e ./applications/rt_fota_crc.o
+                                        0x2fe (size before relaxing)
  .debug_line_str
-                0x0000000000002043       0xc2 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(_divdi3.o)
+                0x00000000000021ca       0xc2 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(_divdi3.o)
                                         0x140 (size before relaxing)
  .debug_line_str
-                0x0000000000002105      0x140 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(_moddi3.o)
+                0x000000000000228c      0x140 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(_moddi3.o)
  .debug_line_str
-                0x0000000000002105      0x140 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
+                0x000000000000228c      0x140 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
  .debug_line_str
-                0x0000000000002105      0x140 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
+                0x000000000000228c      0x140 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
  .debug_line_str
-                0x0000000000002105       0x66 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(adddf3.o)
+                0x000000000000228c       0x66 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(adddf3.o)
                                         0x14c (size before relaxing)
  .debug_line_str
-                0x000000000000216b       0x3d d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(divdf3.o)
+                0x00000000000022f2       0x3d d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(divdf3.o)
                                         0x156 (size before relaxing)
  .debug_line_str
-                0x00000000000021a8       0x33 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+                0x000000000000232f       0x33 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(muldf3.o)
                                         0x156 (size before relaxing)
  .debug_line_str
-                0x00000000000021db       0x37 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(fixunsdfsi.o)
+                0x0000000000002362       0x37 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(fixunsdfsi.o)
                                         0x162 (size before relaxing)
  .debug_line_str
-                0x0000000000002212       0x38 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(floatunsidf.o)
+                0x0000000000002399       0x38 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(floatunsidf.o)
                                         0x165 (size before relaxing)
  .debug_line_str
-                0x000000000000224a       0x49 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(eqtf2.o)
+                0x00000000000023d1       0x49 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(eqtf2.o)
                                         0x157 (size before relaxing)
  .debug_line_str
-                0x0000000000002293       0x32 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(getf2.o)
+                0x000000000000241a       0x32 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(getf2.o)
                                         0x157 (size before relaxing)
  .debug_line_str
-                0x00000000000022c5       0x32 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(letf2.o)
+                0x000000000000244c       0x32 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(letf2.o)
                                         0x157 (size before relaxing)
  .debug_line_str
-                0x00000000000022f7       0x3e d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(multf3.o)
+                0x000000000000247e       0x3e d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(multf3.o)
                                         0x15f (size before relaxing)
  .debug_line_str
-                0x0000000000002335       0x33 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(subtf3.o)
+                0x00000000000024bc       0x33 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(subtf3.o)
                                         0x155 (size before relaxing)
  .debug_line_str
-                0x0000000000002368       0x34 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(fixtfsi.o)
+                0x00000000000024ef       0x34 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(fixtfsi.o)
                                         0x157 (size before relaxing)
  .debug_line_str
-                0x000000000000239c       0x36 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(floatsitf.o)
+                0x0000000000002523       0x36 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(floatsitf.o)
                                         0x168 (size before relaxing)
  .debug_line_str
-                0x00000000000023d2       0x3c d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(divsf3.o)
+                0x0000000000002559       0x3c d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(divsf3.o)
                                         0x14c (size before relaxing)
  .debug_line_str
-                0x000000000000240e       0x32 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(gesf2.o)
+                0x0000000000002595       0x32 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(gesf2.o)
                                         0x159 (size before relaxing)
  .debug_line_str
-                0x0000000000002440       0x32 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(lesf2.o)
+                0x00000000000025c7       0x32 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(lesf2.o)
                                         0x159 (size before relaxing)
  .debug_line_str
-                0x0000000000002472       0x33 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(subsf3.o)
+                0x00000000000025f9       0x33 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(subsf3.o)
                                         0x14c (size before relaxing)
  .debug_line_str
-                0x00000000000024a5       0x37 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(fixunssfsi.o)
+                0x000000000000262c       0x37 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(fixunssfsi.o)
                                         0x162 (size before relaxing)
  .debug_line_str
-                0x00000000000024dc       0x36 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(floatsisf.o)
+                0x0000000000002663       0x36 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(floatsisf.o)
                                         0x15f (size before relaxing)
  .debug_line_str
-                0x0000000000002512       0x38 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(floatunsisf.o)
+                0x0000000000002699       0x38 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(floatunsisf.o)
                                         0x165 (size before relaxing)
  .debug_line_str
-                0x000000000000254a       0x38 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(extenddftf2.o)
+                0x00000000000026d1       0x38 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(extenddftf2.o)
                                         0x16d (size before relaxing)
  .debug_line_str
-                0x0000000000002582       0x37 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(trunctfdf2.o)
+                0x0000000000002709       0x37 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(trunctfdf2.o)
                                         0x16a (size before relaxing)
  .debug_line_str
-                0x00000000000025b9      0x140 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(_clz.o)
+                0x0000000000002740      0x140 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(_clz.o)
  .debug_line_str
-                0x00000000000025b9      0x140 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
+                0x0000000000002740      0x140 d:/install/rt-threadstudio/repo/extract/toolchain_support_packages/risc-v/risc-v-gcc/11.1.0/bin/../lib/gcc/riscv64-unknown-elf/11.1.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
 
 .debug_info     0x0000000000000000    0x39f40
  .debug_info    0x0000000000000000       0x24 ./startup/HPM6750/toolchains/gcc/start.o
